@@ -1,4 +1,4 @@
-# 🌱 My Self-Taught Web Development Journey
+# My Self-Taught Web Development Journey
 
 Welcome! This repository is a public record of my learning journey as a self-taught full stack web developer. I started from the very basics of HTML and am working my way toward advanced frontend and backend development topics — posting progress and mini-projects every week.
 
@@ -38,7 +38,7 @@ Each folder in this repo corresponds to a week of learning and contains:
 
 ---
 
-## 🧠 Let's Connect
+## 🔗 Let's Connect
 
 If you’re a fellow learner, dev, or recruiter — I’d love to hear from you!
 
